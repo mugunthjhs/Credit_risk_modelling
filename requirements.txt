@@ -1,0 +1,7 @@
+Numpy - 1.26.4
+Pandas - 2.2.2
+Matplotlib -  2.1.1
+Scikit-Learn - 1.5.2
+Joblib - 1.4.2
+Streamlit - 1.38.0
+Xgboost - 2.1.1 
